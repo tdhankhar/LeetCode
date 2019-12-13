@@ -1,2 +1,2 @@
 # LeetCode
-Complex Algorithmic Practice Problems from LeetCode (Premium) .
+Complex Algorithmic Practice Problems from LeetCode.
